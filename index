@@ -21,7 +21,7 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            border-radius: 20px;  
+            border-radius: 18px;  
             background: linear-gradient(145deg, #252540, #1c1c30);
             box-shadow: 
                 0 8px 20px rgba(0, 0, 0, 0.4),
